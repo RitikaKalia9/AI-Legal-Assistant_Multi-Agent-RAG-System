@@ -196,6 +196,4 @@ More examples are in `sample_inputs.txt`.
 
 Issues and pull requests are welcome. Please open an issue first to discuss major changes.
 
-## 📄 License
 
-Add a license of your choice (e.g., MIT) to this repository.
